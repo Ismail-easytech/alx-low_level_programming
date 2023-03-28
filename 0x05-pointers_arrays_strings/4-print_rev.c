@@ -18,6 +18,6 @@ for (o = longi; o > 0; o--)
 {
 _putchar(*s);
 s--;
-} _
-putchar('\n');
+}
+_putchar('\n');
 }
